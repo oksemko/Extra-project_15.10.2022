@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SaturdayApp/static/css/main.8ab34ed6.css",
-    "main.js": "/SaturdayApp/static/js/main.ddb2a21a.js",
-    "index.html": "/SaturdayApp/index.html",
-    "main.8ab34ed6.css.map": "/SaturdayApp/static/css/main.8ab34ed6.css.map",
-    "main.ddb2a21a.js.map": "/SaturdayApp/static/js/main.ddb2a21a.js.map"
+    "main.css": "/Extra-project_15.10.2022/static/css/main.8ab34ed6.css",
+    "main.js": "/Extra-project_15.10.2022/static/js/main.ddb2a21a.js",
+    "index.html": "/Extra-project_15.10.2022/index.html",
+    "main.8ab34ed6.css.map": "/Extra-project_15.10.2022/static/css/main.8ab34ed6.css.map",
+    "main.ddb2a21a.js.map": "/Extra-project_15.10.2022/static/js/main.ddb2a21a.js.map"
   },
   "entrypoints": [
     "static/css/main.8ab34ed6.css",
